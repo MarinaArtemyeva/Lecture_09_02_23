@@ -12,4 +12,4 @@ int max = Max(
     Max (array[3], array[4], array[5]),
     Max (array[6], array[7], array[8])
 );
-ConsoleWriteLine(max);
+Console.WriteLine(max);
